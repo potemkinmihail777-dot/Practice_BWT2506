@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bae84713-dc8b-42fc-94c1-485c0f840954" name="Changes" comment="full code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bae84713-dc8b-42fc-94c1-485c0f840954" name="Changes" comment="full code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,7 +75,7 @@
       <updated>1782573456889</updated>
       <workItem from="1783065314908" duration="2766000" />
       <workItem from="1783262689318" duration="39000" />
-      <workItem from="1783262748867" duration="3442000" />
+      <workItem from="1783262748867" duration="3750000" />
     </task>
     <task id="LOCAL-00001" summary="full code">
       <option name="closed" value="true" />
